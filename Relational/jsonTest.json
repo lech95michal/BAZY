@@ -1,0 +1,162 @@
+[
+    {
+        "client": {
+            "pesel": "47660575683",
+            "firstName": "Rocco",
+            "lastName": "Spalter"
+        },
+        "employee": {
+            "idEmployee": 1,
+            "firstName": "Eleanor",
+            "lastName": "Smyser"
+        },
+        "animal": {
+            "idAnimal": 1,
+            "name": "Javier",
+            "type": "Dog",
+            "age": 8
+        },
+        "date": "2019-11-27T00:00:00",
+        "remarks": "Brak uwag do adopcji"
+    },
+    {
+        "client": {
+            "pesel": "65717666777",
+            "firstName": "Darrel",
+            "lastName": "Papenfuss"
+        },
+        "employee": {
+            "idEmployee": 2,
+            "firstName": "Bobette",
+            "lastName": "Sokolski"
+        },
+        "animal": {
+            "idAnimal": 2,
+            "name": "Fausto",
+            "type": "Cat",
+            "age": 8
+        },
+        "date": "2020-06-27T00:00:00",
+        "remarks": "Brak uwag do adopcji"
+    },
+    {
+        "client": {
+            "pesel": "91934602176",
+            "firstName": "Johnson",
+            "lastName": "Norrod"
+        },
+        "employee": {
+            "idEmployee": 10,
+            "firstName": "Pedro",
+            "lastName": "Kotow"
+        },
+        "animal": {
+            "idAnimal": 3,
+            "name": "Gordon",
+            "type": "Dog",
+            "age": 3
+        },
+        "date": "2020-01-30T00:00:00",
+        "remarks": "Brak uwag do adopcji"
+    },
+    {
+        "client": {
+            "pesel": "27307400727",
+            "firstName": "Milda",
+            "lastName": "Hinely"
+        },
+        "employee": {
+            "idEmployee": 6,
+            "firstName": "Quinn",
+            "lastName": "Balcos"
+        },
+        "animal": {
+            "idAnimal": 4,
+            "name": "Val",
+            "type": "Cat",
+            "age": 10
+        },
+        "date": "2020-05-24T00:00:00",
+        "remarks": "Brak uwag do adopcji"
+    },
+    {
+        "client": {
+            "pesel": "57394868790",
+            "firstName": "Curtis",
+            "lastName": "Wieder"
+        },
+        "employee": {
+            "idEmployee": 4,
+            "firstName": "Floyd",
+            "lastName": "Castorena"
+        },
+        "animal": {
+            "idAnimal": 5,
+            "name": "Rodrick",
+            "type": "Dog",
+            "age": 7
+        },
+        "date": "2019-11-24T00:00:00",
+        "remarks": "Brak uwag do adopcji"
+    },
+    {
+        "client": {
+            "pesel": "02703393982",
+            "firstName": "Andreas",
+            "lastName": "Strudwick"
+        },
+        "employee": {
+            "idEmployee": 9,
+            "firstName": "Jake",
+            "lastName": "Herget"
+        },
+        "animal": {
+            "idAnimal": 6,
+            "name": "Gerardo",
+            "type": "Cat",
+            "age": 12
+        },
+        "date": "2019-02-13T00:00:00",
+        "remarks": "Brak uwag do adopcji"
+    },
+    {
+        "client": {
+            "pesel": "31039895146",
+            "firstName": "Lindsay",
+            "lastName": "Casto"
+        },
+        "employee": {
+            "idEmployee": 5,
+            "firstName": "Lawerence",
+            "lastName": "Reineccius"
+        },
+        "animal": {
+            "idAnimal": 7,
+            "name": "Tristan",
+            "type": "Dog",
+            "age": 2
+        },
+        "date": "2020-09-12T00:00:00",
+        "remarks": "Brak uwag do adopcji"
+    },
+    {
+        "client": {
+            "pesel": "29351943534",
+            "firstName": "Maranda",
+            "lastName": "Engleman"
+        },
+        "employee": {
+            "idEmployee": 2,
+            "firstName": "Bobette",
+            "lastName": "Sokolski"
+        },
+        "animal": {
+            "idAnimal": 8,
+            "name": "Selena",
+            "type": "Cat",
+            "age": 4
+        },
+        "date": "2019-12-17T00:00:00",
+        "remarks": "Brak uwag do adopcji"
+    }
+]
